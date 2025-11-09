@@ -45,13 +45,7 @@
 
 ---
 
-## 📌 Projects  
-*(You can update this section once you have projects)*
 
-- 🔗 **Project Name** – Short description and link  
-- 🔗 **Project Name** – Short description and link  
-
----
 
 <p align="center">
   ⭐️ Thanks for visiting my profile!
